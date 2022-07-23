@@ -1,2 +1,2 @@
-# useState-example
+# Reducer-example
 Created with CodeSandbox
